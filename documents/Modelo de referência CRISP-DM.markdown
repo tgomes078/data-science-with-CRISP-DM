@@ -2,7 +2,7 @@
 
 O modelo de processo atual para mineração de dados fornece uma visão geral do ciclo de vida de um projeto de mineração de dados. Ele contém as fases de um projeto, suas respectivas tarefas e os relacionamentos entre essas tarefas. Nesse nível de descrição, não é possível identificar todos os relacionamentos. Poderiam existir relacionamentos entre quaisquer tarefas de mineração de dados, dependendo dos objetivos, do plano de fundo e do interesse do usuário - e mais importante - nos dados.
 
-![Figura_1_-_Fases_do_modelo_de_referência_CRISP-DM](/uploads/7efbc305c8ab8507a88a1cdafe185dd4/Figura_1_-_Fases_do_modelo_de_referência_CRISP-DM.png)
+![Figura_1_-_Fases_do_modelo_de_referência_CRISP-DM](./image/Figura_1_-_Fases_do_modelo_de_referência_CRISP-DM.png)
 
 *Figura 1 - Fases do modelo de referência CRISP-DM*
 
@@ -28,7 +28,7 @@ Nesta fase do projeto, você construiu um modelo (ou modelos) que parece ter alt
 ## 6. Implantação
 A criação do modelo geralmente não é o fim do projeto. Mesmo que o objetivo do modelo seja aumentar o conhecimento dos dados, o conhecimento adquirido precisará ser organizado e apresentado de forma que o cliente possa usá-lo. Geralmente envolve a aplicação de modelos "ativos" nos processos de tomada de decisão de uma organização - por exemplo, personalização em tempo real de páginas da Web ou pontuação repetida de bancos de dados de marketing. Dependendo dos requisitos, a fase de implantação pode ser tão simples quanto gerar um relatório ou tão complexa quanto implementar um processo de mineração de dados repetível em toda a empresa. Em muitos casos, é o cliente, não o analista de dados, quem executa as etapas de implantação. No entanto, mesmo que o analista realize o esforço de implantação, é importante que o cliente entenda de antemão quais ações precisam ser executadas para realmente fazer uso dos modelos criados.
 
-![Figura_2_-_Tarefas_genéricas__negrito__e_saídas__itálico__do_modelo_de_referência_CRISP-DM](/uploads/b38a482e045b5c3e9df1bab49a1d844e/Figura_2_-_Tarefas_genéricas__negrito__e_saídas__itálico__do_modelo_de_referência_CRISP-DM.png)
+![Figura_2_-_Tarefas_genéricas__negrito__e_saídas__itálico__do_modelo_de_referência_CRISP-DM](./image/Figura_2_-_Tarefas_genéricas__negrito__e_saídas__itálico__do_modelo_de_referência_CRISP-DM.png)
 
 *Figura 2 - Tarefas genéricas (negrito) e saídas (itálico) do modelo de referência CRISP-DM*
 
