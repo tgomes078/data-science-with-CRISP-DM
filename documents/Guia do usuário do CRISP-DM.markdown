@@ -471,7 +471,7 @@ Como o primeiro passo na modelagem, selecione a técnica de modelagem inicial re
 
 Lembre-se de que nem todas as ferramentas e técnicas são aplicáveis a todas as tarefas. Para certos problemas, apenas algumas técnicas são apropriadas (consulte o Apêndice 2, onde as técnicas apropriadas para certos tipos de problemas de mineração de dados são discutidas em mais detalhes). Os "requisitos políticos" e outras restrições limitam ainda mais as opções disponíveis para o engenheiro de mineração de dados. Pode ser que apenas uma ferramenta ou técnica esteja disponível para resolver o problema em questão - e que a ferramenta possa não ser absolutamente a melhor, do ponto de vista técnico.
 
-<img src="/uploads/9ea39a1e55dcf125ded2104d61e8b546/Figura_1_-_Universo_de_Técnicas.png" width="600">
+<img src="../image/Figura_1_-_Universo_de_Técnicas.png" width="600">
 
 *Figura 1 - Universo de Técnicas*
 
