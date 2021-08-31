@@ -10,4 +10,4 @@ A descrição de fases e tarefas como etapas discretas executadas em uma ordem e
 
 O quarto nível, a instância do processo, é um registro das ações, decisões e resultados de um compromisso real de mineração de dados. Uma instância do processo é organizada de acordo com as tarefas definidas nos níveis mais altos, mas representa o que realmente aconteceu em um compromisso específico, e não o que acontece em geral.
 
-![Figura 1 - Repartição em quatro níveis da metodologia CRISP-DM](./image/Figura_1_-_Repartição_em_quatro_níveis_da_metodologia_CRISP-DM.png)
+![Figura 1 - Repartição em quatro níveis da metodologia CRISP-DM](../image/Figura_1_-_Repartição_em_quatro_níveis_da_metodologia_CRISP-DM.png)
